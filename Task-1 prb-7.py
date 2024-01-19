@@ -1,4 +1,4 @@
-# Problem 7 : Program That Takes A String And Returns Mpst Frequent Character In It.
+# Problem 7 : Program That Takes A String And Returns Most Frequent Character In It.
 my_string = "Indhumathi"
 
 print ("The string is : ")
